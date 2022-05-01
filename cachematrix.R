@@ -1,3 +1,5 @@
+##FINAL
+
 ## makeCacheMatrix allows for caching the inverse of a matrix
 ## cacheSolve returns the inverse of the matrix, whether or not it has been cached. Indicates whether this is a cached matrix or a newly calculated matrix
 
